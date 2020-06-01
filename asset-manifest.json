@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/neurips2020submission11699/static/css/main.b6db5c9c.chunk.css",
+    "main.js": "/neurips2020submission11699/static/js/main.220ca534.chunk.js",
+    "main.js.map": "/neurips2020submission11699/static/js/main.220ca534.chunk.js.map",
+    "runtime-main.js": "/neurips2020submission11699/static/js/runtime-main.d869b7a0.js",
+    "runtime-main.js.map": "/neurips2020submission11699/static/js/runtime-main.d869b7a0.js.map",
+    "static/css/2.1d10ae30.chunk.css": "/neurips2020submission11699/static/css/2.1d10ae30.chunk.css",
+    "static/js/2.01b1cc77.chunk.js": "/neurips2020submission11699/static/js/2.01b1cc77.chunk.js",
+    "static/js/2.01b1cc77.chunk.js.map": "/neurips2020submission11699/static/js/2.01b1cc77.chunk.js.map",
+    "index.html": "/neurips2020submission11699/index.html",
+    "precache-manifest.999cb5e0e852b146e0a595eb8d05c979.js": "/neurips2020submission11699/precache-manifest.999cb5e0e852b146e0a595eb8d05c979.js",
+    "service-worker.js": "/neurips2020submission11699/service-worker.js",
+    "static/css/2.1d10ae30.chunk.css.map": "/neurips2020submission11699/static/css/2.1d10ae30.chunk.css.map",
+    "static/css/main.b6db5c9c.chunk.css.map": "/neurips2020submission11699/static/css/main.b6db5c9c.chunk.css.map",
+    "static/js/2.01b1cc77.chunk.js.LICENSE": "/neurips2020submission11699/static/js/2.01b1cc77.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d869b7a0.js",
+    "static/css/2.1d10ae30.chunk.css",
+    "static/js/2.01b1cc77.chunk.js",
+    "static/css/main.b6db5c9c.chunk.css",
+    "static/js/main.220ca534.chunk.js"
+  ]
+}
